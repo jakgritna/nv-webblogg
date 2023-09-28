@@ -2,7 +2,7 @@
   "name": "nv-webblog-client",
   "version": "1.0.0",
   "description": "nodejs vuejs webblog client",
-  "author": "jirayu whaykaew",
+  "author": "jakgritna <139940818+jakgritna@users.noreply.github.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
